@@ -15,8 +15,10 @@
 **Framework**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![orval](https://img.shields.io/badge/orval-F97316?style=flat-square)
+![orval](https://img.shields.io/badge/orval-6B4FBB?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Infra**
@@ -43,12 +45,12 @@
 
 **Framework**
 
-![FuelPHP](https://img.shields.io/badge/FuelPHP-FF5722?style=flat-square)
+![FuelPHP](https://img.shields.io/badge/FuelPHP-A83AE8?style=flat-square)
 ![Knockout.js](https://img.shields.io/badge/Knockout.js-E44D26?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square)
@@ -58,6 +60,7 @@
 **Infra**
 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </details>
@@ -68,7 +71,7 @@
   <tr>
     <td>
       <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
-        <img src="https://atcoder-readme-stats.vercel.app/stats/miyakoshi_?show_icons=true&width=500" />
+        <img src="https://atcoder-readme-stats.vercel.app/stats/miyakoshi_?show_icons=true&width=425&height=195" />
       </a>
     </td>
     <td>
