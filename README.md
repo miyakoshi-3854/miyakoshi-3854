@@ -1,7 +1,5 @@
 <!-- 一言自己紹介、ここに書く -->
 
----
-
 ## Tech Stack
 
 <details>
@@ -64,15 +62,20 @@
 
 </details>
 
----
-
 ## Competitive Programming
 
-[![miyakoshi-3854's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/miyakoshi_?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/miyakoshi-3854)
-
----
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
+        <img src="https://atcoder-readme-stats.vercel.app/stats/miyakoshi_?show_icons=true&width=500" />
+      </a>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/miyakoshi-3854" />
+    </td>
+  </tr>
+</table>
 
 ## OSS
 
