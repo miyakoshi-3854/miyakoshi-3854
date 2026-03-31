@@ -1,7 +1,5 @@
 <!-- 一言自己紹介、ここに書く -->
 
-## Tech Stack
-
 <details>
 <summary>✨ Often Use</summary>
 <br>
