@@ -62,24 +62,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </details>
-
-## Competitive Programming
-
-<table>
-  <tr>
-    <td>
-      <a href="https://atcoder.jp/users/miyakoshi_">
-        <img src="https://atcoder-readme-stats.vercel.app/stats/miyakoshi_?show_icons=true&width=435&height=200" />
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/miyakoshi-3854/">
-        <img src="https://leetcard.jacoblin.cool/miyakoshi-3854" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## OSS
-
-- [competitive-programming-skills](https://github.com/miyakoshi-3854/competitive-programming-skills) — Claude Skills for competitive programming practice
